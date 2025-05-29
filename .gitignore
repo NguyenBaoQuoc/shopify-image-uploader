@@ -1,0 +1,7 @@
+# Node modules
+node_modules/
+
+# dotenv environment variables
+.env
+
+shopify-461014-8bd73570b20b.json

@@ -1,0 +1,32 @@
+2025-05-29T04:31:15.273Z - Starting the application...
+2025-05-29T04:31:15.274Z - Current date and time: 2025-05-29T04:31:15.274Z
+2025-05-29T04:31:15.274Z - Initializing Google Sheets data parsing...
+2025-05-29T04:31:17.384Z - Metafield definition created: CYM | Pablo (gid://shopify/MetafieldDefinition/140687507758)
+2025-05-29T04:31:17.738Z - Metafield definition pinned: CYM | Pablo (gid://shopify/MetafieldDefinition/140687507758)
+2025-05-29T04:31:18.124Z - Metafield definition created: CYM | Sofia (gid://shopify/MetafieldDefinition/140687540526)
+2025-05-29T04:31:18.509Z - Metafield definition pinned: CYM | Sofia (gid://shopify/MetafieldDefinition/140687540526)
+2025-05-29T04:31:18.868Z - Metafield definition created: CYM | Luca (gid://shopify/MetafieldDefinition/140687573294)
+2025-05-29T04:31:19.223Z - Metafield definition pinned: CYM | Luca (gid://shopify/MetafieldDefinition/140687573294)
+2025-05-29T04:31:19.630Z - Metafield definition created: CYM | Mateo (gid://shopify/MetafieldDefinition/140687606062)
+2025-05-29T04:31:19.994Z - Metafield definition pinned: CYM | Mateo (gid://shopify/MetafieldDefinition/140687606062)
+2025-05-29T04:31:20.394Z - Metafield definition created: CYM | Camila (gid://shopify/MetafieldDefinition/140687638830)
+2025-05-29T04:31:20.759Z - Metafield definition pinned: CYM | Camila (gid://shopify/MetafieldDefinition/140687638830)
+2025-05-29T04:31:21.372Z - Metafield definition created: CYM | Valentina (gid://shopify/MetafieldDefinition/140687671598)
+2025-05-29T04:31:21.746Z - Metafield definition pinned: CYM | Valentina (gid://shopify/MetafieldDefinition/140687671598)
+2025-05-29T04:31:22.128Z - Metafield definition created: CYM | Diego (gid://shopify/MetafieldDefinition/140687704366)
+2025-05-29T04:31:22.487Z - Metafield definition pinned: CYM | Diego (gid://shopify/MetafieldDefinition/140687704366)
+2025-05-29T04:31:24.316Z - Files uploaded successfully: gid://shopify/MediaImage/41783945429294, gid://shopify/MediaImage/41783945462062, gid://shopify/MediaImage/41783945494830, gid://shopify/MediaImage/41783945527598, gid://shopify/MediaImage/41783945560366 
+2025-05-29T04:31:27.034Z - Product created: Wireless Mouse (9831323304238)
+2025-05-29T04:31:27.408Z - Metafield set for product gid://shopify/Product/9831323304238: custom.cym_pablo with value gid://shopify/MediaImage/41783945429294
+2025-05-29T04:31:27.798Z - Metafield set for product gid://shopify/Product/9831323304238: custom.cym_mateo with value gid://shopify/MediaImage/41783945429294
+2025-05-29T04:31:28.175Z - Metafield set for product gid://shopify/Product/9831323304238: custom.cym_camila with value ["gid://shopify/MediaImage/41783945429294","gid://shopify/MediaImage/41783945527598","gid://shopify/MediaImage/41783945560366"]
+2025-05-29T04:31:28.958Z - Product created: Bluetooth Headphones (9831323337006)
+2025-05-29T04:31:29.319Z - Metafield set for product gid://shopify/Product/9831323337006: custom.cym_sofia with value gid://shopify/MediaImage/41783945462062
+2025-05-29T04:31:29.996Z - Product created: Gaming Keyboard (9831323369774)
+2025-05-29T04:31:30.418Z - Metafield set for product gid://shopify/Product/9831323369774: custom.cym_luca with value ["gid://shopify/MediaImage/41783945494830","gid://shopify/MediaImage/41783945527598"]
+2025-05-29T04:31:31.139Z - Product created: 4K Monitor (9831323402542)
+2025-05-29T04:31:31.543Z - Metafield set for product gid://shopify/Product/9831323402542: custom.cym_mateo with value gid://shopify/MediaImage/41783945527598
+2025-05-29T04:31:31.926Z - Metafield set for product gid://shopify/Product/9831323402542: custom.cym_diego with value gid://shopify/MediaImage/41783945527598
+2025-05-29T04:31:32.617Z - Product created: USB-C Hub (9831323435310)
+2025-05-29T04:31:33.008Z - Metafield set for product gid://shopify/Product/9831323435310: custom.cym_camila with value ["gid://shopify/MediaImage/41783945429294","gid://shopify/MediaImage/41783945560366"]
+2025-05-29T04:31:33.420Z - Metafield set for product gid://shopify/Product/9831323435310: custom.cym_valentina with value gid://shopify/MediaImage/41783945429294

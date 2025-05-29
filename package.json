@@ -1,0 +1,26 @@
+{
+  "name": "shopify-image-uploader",
+  "version": "1.0.0",
+  "description": "A Node.js project for uploading images to Shopify product meta fields from local files or URLs sourced from CSV or Google Sheets.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "cleanFiles": "node src/cleanAllFiles.js",
+    "cleanAllProduct": "node src/cleanAllProduct.js",
+    "cleanMetadataDefinitions": "node src/cleanMetadataDefinitions.js",
+    "clean": "npm run cleanFiles && npm run cleanAllProduct && npm run cleanMetadataDefinitions"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.5.0",
+    "google-spreadsheet": "^4.1.4",
+    "googleapis": "^149.0.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
