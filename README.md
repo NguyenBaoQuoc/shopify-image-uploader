@@ -18,7 +18,11 @@ Image sources URLs, mapped to products and metafields via Google Sheets.
 
 ## Installation
 
-1. **Unzip the project folder** you received.
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/NguyenBaoQuoc/shopify-image-uploader.git
+    cd shopify-image-uploader
+    ```
 
 2. **Install dependencies:**
     ```sh
